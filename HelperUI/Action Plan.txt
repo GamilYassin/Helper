@@ -1,0 +1,5 @@
+﻿	Open Calculator
+	Open Notepad++
+	CM/Rev/Cost calculator
+Quote Calculator
+Define Templates and open it
